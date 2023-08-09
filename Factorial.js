@@ -5,6 +5,6 @@ const factorial = (n) => {
     }
     return fact;
 }
-
-const result = factorial(4);
+let n = 4;
+const result = factorial(n);
 console.log(result);
